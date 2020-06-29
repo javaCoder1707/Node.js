@@ -1,0 +1,22 @@
+{
+  "name": "node-js",
+  "version": "1.0.0",
+  "description": "Course node",
+  "main": "node.js",
+  "scripts": {
+    "start": "node node.js",
+    "dev":"nodemon node.js"
+  },
+  "keywords": [
+    "node",
+    "node.js"
+  ],
+  "author": "Alan Blackwood <tigr12313@gmail.com>",
+  "license": "ISC",
+  "dependencies": {
+    "chalk": "^3.0.0"
+  },
+  "devDependencies": {
+    "nodemon": "^2.0.2"
+  }
+}
